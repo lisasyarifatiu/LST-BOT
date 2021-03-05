@@ -54,7 +54,7 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 > pkg update && pkg upgrade
 > pkg install git
 > pkg install bash
-> git clone https://github.com/Ramlan666/babybot
+> git clone https://github.com/lisasyarifatiu/LST-BOT
 > cd babybot
 > bash install.sh
 > node index.js
